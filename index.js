@@ -26,7 +26,7 @@ raimonda.playSong(0);
 raimonda.playSong(0);
 // Playing song: Bumciki.
 raimonda.playSong(1);
-// Playing song: Tra lia lia.
+// Playing song: Tra lia lai.
 raimonda.playSong(2);
 // Playing song: Oj lijo lijo.
 raimonda.playSong(0);
